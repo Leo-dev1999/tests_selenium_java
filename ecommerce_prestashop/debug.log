@@ -1,0 +1,2 @@
+[0610/231108.219:ERROR:file_io_win.cc(243)] SetEndOfFile: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta. (0x4C8)
+[0610/231114.963:ERROR:file_io_win.cc(243)] SetEndOfFile: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta. (0x4C8)
